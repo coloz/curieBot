@@ -1,15 +1,13 @@
 /*
-  chenlvzhou 2017.3.3
-  http://Servo.me/
+  chenlvzhou 2017.5.20
+  http://clz.me/
 */
 #include "Arduino.h"
 #include "Servo_Motor.h"
-// #include "MsTimer2.h"
-// #include <PID_v1.h>
+
 #include <Servo.h>
 #include <CurieIMU.h>
 #include <MadgwickAHRS.h>
-//#include <CurieTimerOne.h>
 
 Servo_Motor::Servo_Motor(int pinL, int pinR)
 {

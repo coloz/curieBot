@@ -1,6 +1,6 @@
 /*
-chenlvzhou 2017.3.3
-http://Servo.me/
+  chenlvzhou 2017.5.20
+  http://clz.me/
 */
 #ifndef Servo_MOTOR_H
 #define Servo_MOTOR_H
@@ -8,9 +8,6 @@ http://Servo.me/
 #include "Arduino.h"
 #include <Servo.h>
 #include <MadgwickAHRS.h>
-// #include <inttypes.h>
-// #include "MsTimer2.h" 
-// #include <PID_v1.h>
 
 #define DEBUG
 
